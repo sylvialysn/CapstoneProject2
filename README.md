@@ -6,12 +6,14 @@ TLC (Taxi and Limousine Commission) New York adalah badan pemerintah yang bertan
 TLC memiliki target untuk meningkatkan jumlah kendaraan yang dapat diakses oleh individu dengan disabilitas seperti pengguna kursi roda hingga 50%. Kendaraan terkait berupa Nissan NV200 atau 'The Taxi of Tomorrow' yaitu armada yang telah diakui oleh TLC sudah sesuai untuk memfasilitasi penumpang pengguna kursi roda. 
 
 Maka dari itu, kita ingin mencari tahu kesiapan layanan taksi di new york city secara menyeluruh hingga dapat mengambil langkah lebih lanjut ini dan memprioritaskan para penumpang kursi roda.
+Dataset yang digunakan adalah [TLC_NYC_Record](https://github.com/sylvialysn/CapstoneProject2/blob/main/NYC%20TLC%20Trip%20Record.csv)
+
 
 
 **Stakeholder :**
 - Pengatur Regulasi (Regulatory Authorities) dari pihak Taxi and Limousine Commission (TLC) di New York: Pihak yang mengatur tarif taksi, yang bertanggung jawab untuk menetapkan dan mengawasi tarif taksi
 
-- Pertanyaan utama : Apakah layanan taksi di new york city sudah baik? 
+Pertanyaan utama : Apakah layanan taksi di new york city sudah baik? 
 
 Masalah : 
 
@@ -65,4 +67,4 @@ No |Nama Kolom | Penjelasan |
 4. Conclusion & Recommendation
 
 ## Visualisasi dengan tableau
-link : https://public.tableau.com/app/profile/sylvia.sinnelius/viz/TLC_NYC_Capstone2/utama?publish=yes
+link [Tableau](https://public.tableau.com/app/profile/sylvia.sinnelius/viz/TLC_NYC_Capstone2/utama?publish=yes)
