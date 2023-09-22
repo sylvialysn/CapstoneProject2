@@ -7,12 +7,11 @@ TLC memiliki target untuk meningkatkan jumlah kendaraan yang dapat diakses oleh 
 
 Maka dari itu, kita ingin mencari tahu kesiapan layanan taksi di new york city secara menyeluruh hingga dapat mengambil langkah lebih lanjut ini dan memprioritaskan para penumpang kursi roda.
 
-Dataset yang digunakan adalah....
 
 **Stakeholder :**
 - Pengatur Regulasi (Regulatory Authorities) dari pihak Taxi and Limousine Commission (TLC) di New York: Pihak yang mengatur tarif taksi, yang bertanggung jawab untuk menetapkan dan mengawasi tarif taksi
 
-- Pertanyaan utama : Apakah layanan taksi di new york city selama 2022-2023 sudah baik? 
+- Pertanyaan utama : Apakah layanan taksi di new york city sudah baik? 
 
 Masalah : 
 
@@ -66,4 +65,4 @@ No |Nama Kolom | Penjelasan |
 4. Conclusion & Recommendation
 
 ## Visualisasi dengan tableau
-link
+link : https://public.tableau.com/app/profile/sylvia.sinnelius/viz/TLC_NYC_Capstone2/utama?publish=yes
