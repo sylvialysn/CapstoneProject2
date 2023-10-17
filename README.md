@@ -2,10 +2,7 @@
 
 TLC (Taxi and Limousine Commission) New York adalah badan pemerintah yang bertanggung jawab atas regulasi dan pengawasan layanan taksi, limusin, dan kendaraan sewaan lainnya di New York City. TLC bertanggung jawab memberi izin kepada pengemudi taksi, kendaraan yang digunakan, hingga menentukan standar tarif untuk taksi-taksi yang beroperasi di daerah new york.
 
-
-TLC memiliki target untuk meningkatkan jumlah kendaraan yang dapat diakses oleh individu dengan disabilitas seperti pengguna kursi roda hingga 50%. Kendaraan terkait berupa Nissan NV200 atau 'The Taxi of Tomorrow' yaitu armada yang telah diakui oleh TLC sudah sesuai untuk memfasilitasi penumpang pengguna kursi roda. 
-
-Maka dari itu, kita ingin mencari tahu kesiapan layanan taksi di new york city secara menyeluruh hingga dapat mengambil langkah lebih lanjut ini dan memprioritaskan para penumpang kursi roda.
+Kita ingin mencari tahu kesiapan layanan taksi di new york city secara menyeluruh hingga dapat mengambil langkah lebih lanjut ini dan memprioritaskan para penumpang kursi roda.
 Dataset yang digunakan adalah [TLC_NYC_Record](https://github.com/sylvialysn/CapstoneProject2/blob/main/NYC%20TLC%20Trip%20Record.csv)
 
 
